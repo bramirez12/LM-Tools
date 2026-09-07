@@ -3,7 +3,4 @@ Extract .exe
 unblock it
 run it
 
-
-<img width="397" height="561" alt="image" src="https://github.com/user-attachments/assets/08cc4130-b852-45df-ac3b-d42ffd3ccf2c" />
-
-<img width="744" height="318" alt="image" src="https://github.com/user-attachments/assets/d01855eb-6d31-4d3e-b847-4790f9cfd2bb" />
+<img width="734" height="310" alt="image" src="https://github.com/user-attachments/assets/907e06dd-dc4d-4d55-8652-75d68b867841" />
